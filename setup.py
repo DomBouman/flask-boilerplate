@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name='flaskr_boilerplate',
+    name='flask_boilerplate',
     version='0.0.0',
     packages=find_packages(),
     include_package_data=True,
